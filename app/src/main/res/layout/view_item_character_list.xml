@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.ataulm.a11y.character.CharacterListItemView xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent">
+
+  <ImageView
+    android:id="@+id/profile_character_list_item_image"
+    android:layout_width="48dp"
+    android:layout_height="48dp" />
+
+  <TextView
+    android:id="@+id/name_character_list_item_text"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" />
+
+</com.ataulm.a11y.character.CharacterListItemView>
